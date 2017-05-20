@@ -1,0 +1,23 @@
+#one{
+  background-color: red;
+  height: 85px;
+  width: 100%;
+
+}
+
+#two{
+  background-color: blue;
+  height: 750px;
+  width: 1163px;
+  border-style: solid;
+  border-width: 0px 85px 0px 85px;
+  border-color: yellow;
+}
+
+#three{
+  position: fixed;
+  bottom: 0;
+  background-color: green;
+  height: 50px;
+  width: 1163px;
+}
